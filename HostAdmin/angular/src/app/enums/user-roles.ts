@@ -1,0 +1,11 @@
+export enum UserRoles {
+    SUPERADMIN = 1,
+    HOSTTENANTMANAGER = 2,
+    COURSECREATOR = 3,
+    EDITINGTEACHER = 4,
+    TEACHER = 5,
+    HOSTUSER = 6,
+    TENANTADMIN = 7,
+    TENANTUSER = 8,
+    TENANTMANAGER = 9
+}
